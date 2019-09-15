@@ -1,0 +1,400 @@
+{
+	"encuesta": {
+		"preguntas": [{
+				"enunciado": "Estoy seguro de lo que es bueno y lo que es malo, lo que está bien y lo que está mal.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Muchas veces actuó sin mirar las consecuencias.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Normalmente trato de resolver los problemas metódicamente y paso a paso",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Creo que los formalismos coartan y limitan la actuación libre de las personas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me interesa saber cuales son los sistemas de valores de los demás y con qué criterios actúan.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Pienso que el actuar intuitivamente puede ser siempre tan válido como actuar reflexivamente .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Creo que lo más importante es que las cosas funcionen.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Procuro estar al tanto de lo que ocurre aquí y ahora.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Disfruto cuando tengo tiempo para preparar mi trabajo y realizarlo a conciencia.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Estoy a gusto siguiendo un orden, en las comidas, en el estudio, haciendo ejercicio regularmente .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Cuando escuchó una nueva idea en seguida comienzo a pensar como ponerla en práctica.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero las ideas originales y novedosas aunque no sean prácticas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Admito y me ajusto a las normas sólo si me sirven para lograr mis objetivos.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Normalmente encajo bien con personas reflexivas, analíticas y me cuesta sincronizar con personas demasiado espontáneas, imprevisibles .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Escucho con más frecuencia que hablo.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero las cosas estructuradas a las desordenadas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Cuando podés cualquier información, trato de interpretarla bien antes de manifestar alguna conclusión .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Antes de tomar una decisión estudio con cuidado sus ventajas e inconvenientes.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me crezco con el reto de hacer algo nuevo y diferente.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Casi siempre procuro se coherente con mis criterios y sistemas de valores. Tengo principios y los sigo.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Cuando hay una discusión no me gusta ir con rodeos.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta implicarse afectivamente en mi ambiente de trabajo. Prefiero mantener relaciones distantes .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gustan más las personas realistas y concretas que las teóricas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me cuesta ser creativo/a, romper estructuras.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me siento a gusto con personas expontaneas y divertidas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "La mayoría de las veces expreso abiertamente como me siento.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta analizar y dar vueltas a las cosas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me molesta que la gente no se tome en serio las cosas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me atrae experimentar y practicar las últimas técnicas y novedades .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Soy cauteloso/a a la hora de sacar conclusiones.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero contar con el mayor número de fuentes de información. Cuántos más datos reúnan para reflexionar, mejor.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Riendo a ser perfeccionista.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero oir las opiniones de los demás antes que exponer las mías.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta afrontar la vida espontáneamente y no tener que planificar todo previamente.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "En las discusiones me gusta observar cómo actúan los demás participantes.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me siento incómodo con las personas calladas y demasiado analíticas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Juzgo con frecuencia las ideas de los demás por su valor práctico.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me agobio si me obligan a acelerar mucho el trabajo para cumplir un plazo.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "En las reuniones apoyo las ideas prácticas y realistas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Es mejor gozar del momento presente que deleitarse pensando en el pasado o en el futuro .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me molestan las personas que siempre desean apresurar las cosas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Aporto las ideas nuevas y espontáneas en los grupos de discusión.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Pienso que son más consistentes las decisiones fundamentadas en un minucioso análisis que las basadas en la intuición.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Detecto frecuentemente la inconsistencia y puntos de débiles en las argumentaciones de los demás.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Creo que es preciso saltarse saltarse las normas muchas más veces que cumplirlas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "A menudo caigo en cuenta de otras formas mejores y más prácticas de hacer las cosas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "En conjunto hablo más que escucho.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero distanciarme de les hechos y observarlos desde otras perspectivas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Estoy convencido/a qué debe imponerse la lógica y el razonamiento.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta buscar nuevas experiencias.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta experimentar y aplicar las cosas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Pienso que debemos de llegar pronto al grano, al meollo de los temas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Siempre trato de conseguir conclusiones e ideas claras.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Prefiero discutir cuestiones concretas y no perder el tiempo con charlas vacías .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me impaciente con las argumentaciones irrevelantes e incoherentes en las reuniones.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Compruebo antes si las cosas funcionan realmente .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Hago varios borradores antes de la redacción definitiva de un trabajo.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Soy conciente de que en las discusiones ayudo a los demás a mantenerse centrados en el tema, evitando divagaciones .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Observo que, con frecuencia, soy uno de las más objetivos y desapasionados en las discusiones.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Cuando algo va mal, le quitó importancia y trato de hacerlo mejor.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Rechazó ideas originales y espontáneas si no las veo prácticas .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me gusta sopesar diversas alternativas antes de tomar una decisión.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Con frecuencia miro hacia adelante para ver el futuro.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "En los debates prefiero desempeñar un papel secundario antes que ser el líder o el que más participa .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me molestan las personas que no siguen un enfoque lógico .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me resulta incómodo tener que planificar y prever las cosas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Creo que el fin justifica los medios en muchos casos .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Suelo reflexionar sobre los asuntos y problemas",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "El trabajar a conciencia me llena de satisfacción y orgullo .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Ante los acontecimientos trago de descubrir los principios y teorías en que se basan.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Con tal de conseguir el objetivo que pretendo soy capaz de herir sentimientos ajenos .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "No me importa hacer todo lo necesario para que sea efectivo mi trabajo .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Con frecuencia soy una de las personas dque más animas las fiestas.",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Me aburro enseguida con el trabajo metódico y minucioso .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "La gente con frecuencia cree que soy un poco sensible a sus sentimientos .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Suelo dejarme llevar por mis intuiciones .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Sí trabajo en grupo procuro que se siga jn método y un orden .",
+				"tipo": ""
+			},
+
+			{
+				"enunciado": "Con frecuencia me interesa averiguar lo que piensa la gente .",
+				"tipo": ""
+			},
+
+
+			{
+				"enunciado": "Esquivo los temas subjetivos , ambiguos y poco claros.",
+				"tipo": ""
+			}
+		]
+	}
+}
